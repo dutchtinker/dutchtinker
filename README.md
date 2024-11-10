@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @dutchtinker a dutch guy. 
-- 👀 I’m interested in a lot.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on stuff
+- 👋 Hi, I’m @dutchtinker a dutch guy. .
 - 📫 How to reach me @ headhunter83nl@gmail.com
 
 <!---
